@@ -22,7 +22,7 @@ title: UnlabelledX
 email: vijay.mjvv@gmail.com # will change to gmail domain
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to UnlabelledX where we try and break down complex real world machine learning problems especially ones that deal with unlabelled data.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /blog # the subpath of your site, e.g. /blog
 url: https://unlabelledx.github.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vjjraman
 github_username:  vjjraman
